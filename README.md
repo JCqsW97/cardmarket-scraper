@@ -8,14 +8,28 @@
 
 </div>
 
-Python  
-Selenium  
-Pandas  
-License: MIT
+## ⚙️ **Tech Stack**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium"/>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas"/>
+      <br>Pandas
+    </td>
+  </tr>
+</table>
 
 ---
 
-## **Features**
+## 📌 **Features**
 
 - **Headless Firefox Browser**: Uses Selenium with a headless Firefox browser to scrape data.
 - **Pagination Handling**: Automatically navigates through all pages of a user's singles.
@@ -43,7 +57,7 @@ pip install selenium webdriver-manager pandas
 
 ---
 
-## **Usage**
+## 📝 **Usage**
 
 ### **Command Line Arguments**
 
@@ -105,7 +119,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ---
 
-## **Notes**
+## 💡 **Notes**
 
 - **Rate Limiting**: The scraper uses random delays (`random_delay()`) to avoid triggering anti-bot measures.
 - **Resuming**: If the scraper is interrupted, it will resume from the last scraped expansion.
@@ -113,13 +127,13 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ---
 
-## **License**
+## 📄 **License**
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## **Contributing**
+## 🌟 **Contribute & Feedback**
 
 Contributions are welcome! Open an issue or submit a pull request for any improvements or bug fixes.
 
@@ -131,3 +145,9 @@ Contributions are welcome! Open an issue or submit a pull request for any improv
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)
 - [Pandas](https://pandas.pydata.org/)
 - [Le Chat](https://chat.mistral.ai/chat)
+
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=150&color=7b4397&section=footer&fontColor=FFFFFF)
+
+</div>

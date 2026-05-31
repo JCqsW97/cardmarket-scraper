@@ -131,6 +131,39 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ---
 
+## ⚠️ **Legal & Ethical Considerations**
+
+### Scraping at Your Own Risk
+
+This scraper is provided for educational and personal use only. By using this tool, you agree to:
+
+- Comply with all applicable laws and the target website’s Terms of Service and robots.txt rules.
+- Respect the website’s policies regarding data collection, rate limiting, and usage restrictions.
+- Use the scraped data responsibly and not for commercial or competitive purposes unless explicitly permitted.
+
+### Cardmarket’s Policies (last visited on 26/05/31)
+
+Cardmarket’s robots.txt allows scraping for search/indexing purposes (search=yes), but prohibits AI training (ai-train=no).
+Always check Cardmarket’s Terms of Service for additional restrictions.
+
+### Do not use this scraper to:
+
+- Overload Cardmarket’s servers (use reasonable delays).
+- Collect data for AI training or commercial use without permission.
+- Violate any local, national, or international laws.
+
+### Disclaimer
+
+The author of this scraper is not responsible for any misuse, legal consequences, or violations of website policies.
+You are solely responsible for ensuring your use of this tool complies with all relevant laws and regulations.
+
+The author is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Cardmarket, Yu-Gi-Oh!, or their respective owners.
+Cardmarket and Yu-Gi-Oh! are trademarks and brands owned by their respective companies. All rights belong to their lawful owners.
+
+Use at your own risk.
+
+---
+
 ## 📄 **License**
 
 <div align="center">

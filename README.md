@@ -125,7 +125,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ## 💡 **Notes**
 
-- **Rate Limiting**: The scraper uses random delays (`random_delay()`) to avoid triggering anti-bot measures.
+- **Rate Limiting**: The scraper uses random delays (`random_delay()`) to avoid triggering anti-bot measures. It is slow by design.
 - **Resuming**: If the scraper is interrupted, it will resume from the last scraped expansion.
 - **Error Handling**: The scraper logs errors and continues to the next page/expansion if an issue occurs.
 
@@ -143,7 +143,7 @@ This scraper is provided for educational and personal use only. By using this to
 
 ### Cardmarket’s Policies (last visited on 26/05/31)
 
-Cardmarket’s robots.txt allows scraping for search/indexing purposes (search=yes), but prohibits AI training (ai-train=no).
+Cardmarket’s [robots.txt](https://www.cardmarket.com/robots.txt) allows scraping for search/indexing purposes (`search=yes`), but prohibits AI training (`ai-train=no`).
 Always check Cardmarket’s Terms of Service for additional restrictions.
 
 ### Do not use this scraper to:

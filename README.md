@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=7b4397&text=CM Scraper&section=header&fontColor=FFFFFF)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=7b4397&text=CM_Scraper&section=header&fontColor=FFFFFF)
 
 # Cardmarket Yu-Gi-Oh! Singles Scraper
 

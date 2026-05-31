@@ -1,11 +1,17 @@
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=7b4397&text=CM Scraper&section=header&fontColor=FFFFFF)
+
 # Cardmarket Yu-Gi-Oh! Singles Scraper
+
+<p align="center">A Python scraper to extract Yu-Gi-Oh! singles data (name, expansion, rarity, condition, language, price, amount, comments, image URL, and product URL) from a Cardmarket user's profile. The scraper handles pagination, random delays to avoid rate-limiting, and resumes from previous runs based on expansions already visited.</p>
+
+</div>
 
 Python  
 Selenium  
 Pandas  
 License: MIT
-
-A Python scraper to extract Yu-Gi-Oh! singles data (name, expansion, rarity, condition, language, price, amount, comments, image URL, and product URL) from a Cardmarket user's profile. The scraper handles pagination, random delays to avoid rate-limiting, and resumes from previous runs based on expansions already visited.
 
 ---
 

@@ -64,7 +64,7 @@ pip install selenium webdriver-manager pandas
 <div align="center">
 
 | Argument       | Description                                      | Default Value               |
-| -------------- | ------------------------------------------------ | --------------------------- |
+| :------------- | :----------------------------------------------- | :-------------------------- |
 | `user_id`      | Cardmarket user ID                               | **Required**                |
 | `--output`     | Output CSV filename for cards                    | `cardmarket_cards.csv`      |
 | `--expansions` | Output CSV filename for expansions               | `cardmarket_expansions.csv` |

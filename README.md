@@ -109,7 +109,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 <div align="center">
 
 | Function                           | Description                                                      |
-| ---------------------------------- | ---------------------------------------------------------------- |
+| :--------------------------------- | :--------------------------------------------------------------- |
 | `setup_driver()`                   | Configures a headless Firefox browser with human-like settings.  |
 | `get_expansion_options()`          | Extracts all expansion options from the filter dropdown.         |
 | `get_number_of_singles()`          | Fetches the total number of singles available for a user.        |

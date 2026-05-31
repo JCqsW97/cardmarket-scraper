@@ -61,6 +61,7 @@ pip install selenium webdriver-manager pandas
 
 ### **Command Line Arguments**
 
+<div align="center">
 
 | Argument       | Description                                      | Default Value               |
 | -------------- | ------------------------------------------------ | --------------------------- |
@@ -68,6 +69,7 @@ pip install selenium webdriver-manager pandas
 | `--output`     | Output CSV filename for cards                    | `cardmarket_cards.csv`      |
 | `--expansions` | Output CSV filename for expansions               | `cardmarket_expansions.csv` |
 
+<div/>
 
 ### **Run the Scraper**
 
@@ -104,6 +106,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ### **Code Structure**
 
+<div align="center">
 
 | Function                           | Description                                                      |
 | ---------------------------------- | ---------------------------------------------------------------- |
@@ -116,6 +119,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 | `save_to_csv()`                    | Saves scraped cards to a CSV file.                               |
 | `save_expansion_to_csv()`          | Saves scraped expansions to a CSV file.                          |
 
+<div/>
 
 ---
 

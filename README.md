@@ -141,7 +141,7 @@ This scraper is provided for educational and personal use only. By using this to
 - Respect the website’s policies regarding data collection, rate limiting, and usage restrictions.
 - Use the scraped data responsibly and not for commercial or competitive purposes unless explicitly permitted.
 
-### Cardmarket’s Policies (last visited on 26/05/31)
+### Cardmarket’s Policies (last visited on May 31, 2026)
 
 Cardmarket’s [robots.txt](https://www.cardmarket.com/robots.txt) allows scraping for search/indexing purposes (`search=yes`), but prohibits AI training (`ai-train=no`).
 Always check Cardmarket’s Terms of Service for additional restrictions.

@@ -40,7 +40,7 @@
 
 ---
 
-## **Installation**
+## 🚀 **Installation**
 
 ### **Prerequisites**
 
@@ -83,7 +83,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ---
 
-## **Output Files**
+### **Output Files**
 
 - `**<output_file>.csv**`: Contains all scraped cards with the following columns:
   - `name`
@@ -102,7 +102,7 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ---
 
-## **Code Structure**
+### **Code Structure**
 
 
 | Function                           | Description                                                      |
@@ -129,7 +129,11 @@ python cardmarket_scraper.py username --output date_username_cards.csv --expansi
 
 ## 📄 **License**
 
+<div align="center">
+
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+</div>
 
 ---
 
@@ -139,7 +143,7 @@ Contributions are welcome! Open an issue or submit a pull request for any improv
 
 ---
 
-## **Acknowledgments**
+## 🙏 **Acknowledgments**
 
 - [Selenium](https://www.selenium.dev/)
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)

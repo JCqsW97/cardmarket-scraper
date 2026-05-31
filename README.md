@@ -124,3 +124,4 @@ Contributions are welcome! Open an issue or submit a pull request for any improv
 - [Selenium](https://www.selenium.dev/)
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager)
 - [Pandas](https://pandas.pydata.org/)
+- [Le Chat](https://chat.mistral.ai/chat)
